@@ -1,0 +1,3000 @@
+Det sökta talet: 912
+Finns på: 91309 på tid 9917 nanosekunder
+
+Det sökta talet: 381
+Finns på: 38086 på tid 1747 nanosekunder
+
+Det sökta talet: 149
+Finns på: 14843 på tid 1885 nanosekunder
+
+Det sökta talet: 887
+Finns på: 88770 på tid 1955 nanosekunder
+
+Det sökta talet: 641
+Finns på: 63867 på tid 1955 nanosekunder
+
+Det sökta talet: 764
+Finns på: 76367 på tid 1746 nanosekunder
+
+Det sökta talet: 604
+Finns på: 60156 på tid 1466 nanosekunder
+
+Det sökta talet: 841
+Finns på: 84179 på tid 1466 nanosekunder
+
+Det sökta talet: 386
+Finns på: 38575 på tid 1606 nanosekunder
+
+Det sökta talet: 90
+Finns på: 8984 på tid 1397 nanosekunder
+
+Det sökta talet: 170
+Finns på: 16992 på tid 1536 nanosekunder
+
+Det sökta talet: 621
+Finns på: 62012 på tid 1536 nanosekunder
+
+Det sökta talet: 332
+Finns på: 33008 på tid 1816 nanosekunder
+
+Det sökta talet: 319
+Finns på: 31640 på tid 1467 nanosekunder
+
+Det sökta talet: 639
+Finns på: 64062 på tid 1397 nanosekunder
+
+Det sökta talet: 282
+Finns på: 28027 på tid 1537 nanosekunder
+
+Det sökta talet: 887
+Finns på: 88672 på tid 1397 nanosekunder
+
+Det sökta talet: 187
+Finns på: 18652 på tid 1397 nanosekunder
+
+Det sökta talet: 518
+Finns på: 51660 på tid 2305 nanosekunder
+
+Det sökta talet: 839
+Finns på: 83984 på tid 1467 nanosekunder
+
+Det sökta talet: 561
+Finns på: 56347 på tid 1467 nanosekunder
+
+Det sökta talet: 538
+Finns på: 53809 på tid 1537 nanosekunder
+
+Det sökta talet: 236
+Finns på: 23535 på tid 1536 nanosekunder
+
+Det sökta talet: 90
+Finns på: 8984 på tid 1537 nanosekunder
+
+Det sökta talet: 222
+Finns på: 22168 på tid 1537 nanosekunder
+
+Det sökta talet: 997
+Finns på: 99756 på tid 1816 nanosekunder
+
+Det sökta talet: 237
+Finns på: 23780 på tid 1537 nanosekunder
+
+Det sökta talet: 127
+Finns på: 12695 på tid 1747 nanosekunder
+
+Det sökta talet: 763
+Finns på: 76172 på tid 1537 nanosekunder
+
+Det sökta talet: 182
+Finns på: 18066 på tid 1536 nanosekunder
+
+Det sökta talet: 639
+Finns på: 63672 på tid 3283 nanosekunder
+
+Det sökta talet: 250
+Finns på: 24999 på tid 1187 nanosekunder
+
+Det sökta talet: 784
+Finns på: 78515 på tid 1467 nanosekunder
+
+Det sökta talet: 225
+Finns på: 22265 på tid 1257 nanosekunder
+
+Det sökta talet: 279
+Finns på: 27832 på tid 1677 nanosekunder
+
+Det sökta talet: 723
+Finns på: 72168 på tid 1536 nanosekunder
+
+Det sökta talet: 721
+Finns på: 72265 på tid 1536 nanosekunder
+
+Det sökta talet: 454
+Finns på: 45215 på tid 1397 nanosekunder
+
+Det sökta talet: 823
+Finns på: 82422 på tid 1257 nanosekunder
+
+Det sökta talet: 520
+Finns på: 52051 på tid 1327 nanosekunder
+
+Det sökta talet: 55
+Finns på: 5468 på tid 1118 nanosekunder
+
+Det sökta talet: 700
+Finns på: 70020 på tid 1606 nanosekunder
+
+Det sökta talet: 288
+Finns på: 28809 på tid 1327 nanosekunder
+
+Det sökta talet: 976
+Finns på: 97656 på tid 1187 nanosekunder
+
+Det sökta talet: 596
+Finns på: 59961 på tid 1397 nanosekunder
+
+Det sökta talet: 850
+Finns på: 85059 på tid 1607 nanosekunder
+
+Det sökta talet: 727
+Finns på: 72656 på tid 2025 nanosekunder
+
+Det sökta talet: 59
+Finns på: 5859 på tid 1536 nanosekunder
+
+Det sökta talet: 599
+Finns på: 59668 på tid 1467 nanosekunder
+
+Det sökta talet: 937
+Finns på: 93749 på tid 1188 nanosekunder
+
+Det sökta talet: 119
+Finns på: 11914 på tid 1257 nanosekunder
+
+Det sökta talet: 768
+Finns på: 77051 på tid 1467 nanosekunder
+
+Det sökta talet: 392
+Finns på: 39258 på tid 1746 nanosekunder
+
+Det sökta talet: 299
+Finns på: 29883 på tid 1397 nanosekunder
+
+Det sökta talet: 412
+Finns på: 41113 på tid 1956 nanosekunder
+
+Det sökta talet: 59
+Finns på: 5859 på tid 1955 nanosekunder
+
+Det sökta talet: 516
+Finns på: 51465 på tid 2025 nanosekunder
+
+Det sökta talet: 31
+Finns på: 2978 på tid 1955 nanosekunder
+
+Det sökta talet: 543
+Finns på: 54297 på tid 1956 nanosekunder
+
+Det sökta talet: 542
+Finns på: 54102 på tid 2095 nanosekunder
+
+Det sökta talet: 907
+Finns på: 90820 på tid 1886 nanosekunder
+
+Det sökta talet: 287
+Finns på: 28515 på tid 2026 nanosekunder
+
+Det sökta talet: 751
+Finns på: 75195 på tid 1676 nanosekunder
+
+Det sökta talet: 138
+Finns på: 13770 på tid 2374 nanosekunder
+
+Det sökta talet: 459
+Finns på: 46191 på tid 1536 nanosekunder
+
+Det sökta talet: 743
+Finns på: 74414 på tid 2026 nanosekunder
+
+Det sökta talet: 880
+Finns på: 87890 på tid 1537 nanosekunder
+
+Det sökta talet: 812
+Finns på: 81054 på tid 1467 nanosekunder
+
+Det sökta talet: 446
+Finns på: 44434 på tid 1467 nanosekunder
+
+Det sökta talet: 910
+Finns på: 91015 på tid 1746 nanosekunder
+
+Det sökta talet: 495
+Finns på: 49512 på tid 1397 nanosekunder
+
+Det sökta talet: 494
+Finns på: 49023 på tid 1536 nanosekunder
+
+Det sökta talet: 667
+Finns på: 66895 på tid 1467 nanosekunder
+
+Det sökta talet: 823
+Finns på: 82325 på tid 1327 nanosekunder
+
+Det sökta talet: 516
+Finns på: 51758 på tid 1607 nanosekunder
+
+Det sökta talet: 280
+Finns på: 28027 på tid 1537 nanosekunder
+
+Det sökta talet: 827
+Finns på: 82520 på tid 1396 nanosekunder
+
+Det sökta talet: 48
+Finns på: 4785 på tid 1327 nanosekunder
+
+Det sökta talet: 801
+Finns på: 80176 på tid 1536 nanosekunder
+
+Det sökta talet: 81
+Finns på: 8106 på tid 1467 nanosekunder
+
+Det sökta talet: 657
+Finns på: 65624 på tid 1257 nanosekunder
+
+Det sökta talet: 884
+Finns på: 88575 på tid 1257 nanosekunder
+
+Det sökta talet: 538
+Finns på: 53515 på tid 1257 nanosekunder
+
+Det sökta talet: 933
+Finns på: 93311 på tid 1327 nanosekunder
+
+Det sökta talet: 481
+Finns på: 48047 på tid 1606 nanosekunder
+
+Det sökta talet: 84
+Finns på: 8398 på tid 1466 nanosekunder
+
+Det sökta talet: 591
+Finns på: 58789 på tid 1397 nanosekunder
+
+Det sökta talet: 295
+Finns på: 29590 på tid 1537 nanosekunder
+
+Det sökta talet: 476
+Finns på: 47754 på tid 1746 nanosekunder
+
+Det sökta talet: 409
+Finns på: 40918 på tid 1816 nanosekunder
+
+Det sökta talet: 958
+Finns på: 95801 på tid 1467 nanosekunder
+
+Det sökta talet: 777
+Finns på: 77734 på tid 1676 nanosekunder
+
+Det sökta talet: 657
+Finns på: 65820 på tid 1397 nanosekunder
+
+Det sökta talet: 892
+Finns på: 89258 på tid 1606 nanosekunder
+
+Det sökta talet: 320
+Finns på: 32031 på tid 1397 nanosekunder
+
+Det sökta talet: 951
+Finns på: 95215 på tid 1397 nanosekunder
+
+Det sökta talet: 695
+Finns på: 69434 på tid 1677 nanosekunder
+
+Det sökta talet: 687
+Finns på: 68554 på tid 1956 nanosekunder
+
+Det sökta talet: 243
+Finns på: 24218 på tid 2165 nanosekunder
+
+Det sökta talet: 40
+Finns på: 3906 på tid 1676 nanosekunder
+
+Det sökta talet: 53
+Finns på: 5273 på tid 1955 nanosekunder
+
+Det sökta talet: 8
+Finns på: 781 på tid 1676 nanosekunder
+
+Det sökta talet: 8
+Finns på: 781 på tid 1537 nanosekunder
+
+Det sökta talet: 527
+Finns på: 52929 på tid 1467 nanosekunder
+
+Det sökta talet: 541
+Finns på: 53809 på tid 1536 nanosekunder
+
+Det sökta talet: 767
+Finns på: 76758 på tid 2165 nanosekunder
+
+Det sökta talet: 127
+Finns på: 12402 på tid 2026 nanosekunder
+
+Det sökta talet: 22
+Finns på: 2051 på tid 1955 nanosekunder
+
+Det sökta talet: 359
+Finns på: 35840 på tid 1466 nanosekunder
+
+Det sökta talet: 176
+Finns på: 17676 på tid 1886 nanosekunder
+
+Det sökta talet: 643
+Finns på: 64356 på tid 1816 nanosekunder
+
+Det sökta talet: 938
+Finns på: 93847 på tid 1396 nanosekunder
+
+Det sökta talet: 823
+Finns på: 82422 på tid 1536 nanosekunder
+
+Det sökta talet: 728
+Finns på: 72754 på tid 1816 nanosekunder
+
+Det sökta talet: 930
+Finns på: 93066 på tid 8031 nanosekunder
+
+Det sökta talet: 936
+Finns på: 93554 på tid 1816 nanosekunder
+
+Det sökta talet: 552
+Finns på: 55176 på tid 1746 nanosekunder
+
+Det sökta talet: 741
+Finns på: 74121 på tid 1327 nanosekunder
+
+Det sökta talet: 288
+Finns på: 28809 på tid 2514 nanosekunder
+
+Det sökta talet: 365
+Finns på: 36426 på tid 2514 nanosekunder
+
+Det sökta talet: 578
+Finns på: 57910 på tid 2863 nanosekunder
+
+Det sökta talet: 836
+Finns på: 83593 på tid 3212 nanosekunder
+
+Det sökta talet: 858
+Finns på: 85840 på tid 1677 nanosekunder
+
+Det sökta talet: 391
+Finns på: 38965 på tid 1397 nanosekunder
+
+Det sökta talet: 931
+Finns på: 93066 på tid 2235 nanosekunder
+
+Det sökta talet: 532
+Finns på: 53222 på tid 1746 nanosekunder
+
+Det sökta talet: 492
+Finns på: 49023 på tid 1257 nanosekunder
+
+Det sökta talet: 851
+Finns på: 85352 på tid 3282 nanosekunder
+
+Det sökta talet: 584
+Finns på: 58398 på tid 2235 nanosekunder
+
+Det sökta talet: 417
+Finns på: 41992 på tid 1467 nanosekunder
+
+Det sökta talet: 995
+Finns på: 99512 på tid 1467 nanosekunder
+
+Det sökta talet: 371
+Finns på: 37109 på tid 1467 nanosekunder
+
+Det sökta talet: 208
+Finns på: 20801 på tid 1327 nanosekunder
+
+Det sökta talet: 225
+Finns på: 22559 på tid 1396 nanosekunder
+
+Det sökta talet: 865
+Finns på: 86328 på tid 1257 nanosekunder
+
+Det sökta talet: 711
+Finns på: 70898 på tid 2374 nanosekunder
+
+Det sökta talet: 153
+Finns på: 15186 på tid 1746 nanosekunder
+
+Det sökta talet: 486
+Finns på: 48242 på tid 1956 nanosekunder
+
+Det sökta talet: 973
+Finns på: 97363 på tid 1746 nanosekunder
+
+Det sökta talet: 871
+Finns på: 87304 på tid 1886 nanosekunder
+
+Det sökta talet: 167
+Finns på: 16700 på tid 2794 nanosekunder
+
+Det sökta talet: 336
+Finns på: 33593 på tid 2375 nanosekunder
+
+Det sökta talet: 899
+Finns på: 89941 på tid 2305 nanosekunder
+
+Det sökta talet: 974
+Finns på: 97363 på tid 2096 nanosekunder
+
+Det sökta talet: 868
+Finns på: 86914 på tid 1955 nanosekunder
+
+Det sökta talet: 482
+Finns på: 48437 på tid 1327 nanosekunder
+
+Det sökta talet: 539
+Finns på: 53906 på tid 2514 nanosekunder
+
+Det sökta talet: 543
+Finns på: 54395 på tid 2444 nanosekunder
+
+Det sökta talet: 708
+Finns på: 71191 på tid 1397 nanosekunder
+
+Det sökta talet: 322
+Finns på: 32422 på tid 1466 nanosekunder
+
+Det sökta talet: 396
+Finns på: 39551 på tid 2026 nanosekunder
+
+Det sökta talet: 395
+Finns på: 39356 på tid 2025 nanosekunder
+
+Det sökta talet: 173
+Finns på: 17481 på tid 3073 nanosekunder
+
+Det sökta talet: 647
+Finns på: 64551 på tid 2235 nanosekunder
+
+Det sökta talet: 485
+Finns på: 48340 på tid 2025 nanosekunder
+
+Det sökta talet: 990
+Finns på: 99121 på tid 1886 nanosekunder
+
+Det sökta talet: 275
+Finns på: 27539 på tid 2025 nanosekunder
+
+Det sökta talet: 452
+Finns på: 45117 på tid 1467 nanosekunder
+
+Det sökta talet: 84
+Finns på: 8301 på tid 2026 nanosekunder
+
+Det sökta talet: 756
+Finns på: 75586 på tid 1606 nanosekunder
+
+Det sökta talet: 967
+Finns på: 96679 på tid 2165 nanosekunder
+
+Det sökta talet: 874
+Finns på: 87499 på tid 1815 nanosekunder
+
+Det sökta talet: 674
+Finns på: 67285 på tid 2304 nanosekunder
+
+Det sökta talet: 592
+Finns på: 59179 på tid 1467 nanosekunder
+
+Det sökta talet: 969
+Finns på: 96874 på tid 1187 nanosekunder
+
+Det sökta talet: 403
+Finns på: 40234 på tid 1677 nanosekunder
+
+Det sökta talet: 290
+Finns på: 29200 på tid 1397 nanosekunder
+
+Det sökta talet: 490
+Finns på: 49023 på tid 1327 nanosekunder
+
+Det sökta talet: 632
+Finns på: 63379 på tid 2095 nanosekunder
+
+Det sökta talet: 106
+Finns på: 10547 på tid 1816 nanosekunder
+
+Det sökta talet: 128
+Finns på: 12890 på tid 1746 nanosekunder
+
+Det sökta talet: 979
+Finns på: 97950 på tid 1746 nanosekunder
+
+Det sökta talet: 899
+Finns på: 90039 på tid 1466 nanosekunder
+
+Det sökta talet: 774
+Finns på: 77441 på tid 1606 nanosekunder
+
+Det sökta talet: 753
+Finns på: 75488 på tid 2235 nanosekunder
+
+Det sökta talet: 859
+Finns på: 85937 på tid 3911 nanosekunder
+
+Det sökta talet: 131
+Finns på: 13281 på tid 2095 nanosekunder
+
+Det sökta talet: 571
+Finns på: 57129 på tid 1536 nanosekunder
+
+Det sökta talet: 400
+Finns på: 39746 på tid 2794 nanosekunder
+
+Det sökta talet: 552
+Finns på: 55176 på tid 2235 nanosekunder
+
+Det sökta talet: 516
+Finns på: 51758 på tid 1466 nanosekunder
+
+Det sökta talet: 956
+Finns på: 95703 på tid 1886 nanosekunder
+
+Det sökta talet: 926
+Finns på: 92676 på tid 2305 nanosekunder
+
+Det sökta talet: 211
+Finns på: 21093 på tid 2026 nanosekunder
+
+Det sökta talet: 107
+Finns på: 10645 på tid 2235 nanosekunder
+
+Det sökta talet: 455
+Finns på: 45410 på tid 1467 nanosekunder
+
+Det sökta talet: 708
+Finns på: 70850 på tid 1816 nanosekunder
+
+Det sökta talet: 652
+Finns på: 65039 på tid 1886 nanosekunder
+
+Det sökta talet: 7
+Finns på: 684 på tid 1886 nanosekunder
+
+Det sökta talet: 45
+Finns på: 4395 på tid 1536 nanosekunder
+
+Det sökta talet: 368
+Finns på: 36914 på tid 1397 nanosekunder
+
+Det sökta talet: 47
+Finns på: 4590 på tid 1397 nanosekunder
+
+Det sökta talet: 129
+Finns på: 12890 på tid 1257 nanosekunder
+
+Det sökta talet: 800
+Finns på: 79981 på tid 1885 nanosekunder
+
+Det sökta talet: 547
+Finns på: 54785 på tid 4609 nanosekunder
+
+Det sökta talet: 288
+Finns på: 28809 på tid 2304 nanosekunder
+
+Det sökta talet: 1
+Finns på: 48 på tid 2165 nanosekunder
+
+Det sökta talet: 743
+Finns på: 74414 på tid 2864 nanosekunder
+
+Det sökta talet: 72
+Finns på: 7129 på tid 1536 nanosekunder
+
+Det sökta talet: 921
+Finns på: 92090 på tid 2654 nanosekunder
+
+Det sökta talet: 507
+Finns på: 50781 på tid 1956 nanosekunder
+
+Det sökta talet: 708
+Finns på: 70898 på tid 3632 nanosekunder
+
+Det sökta talet: 760
+Finns på: 76075 på tid 3353 nanosekunder
+
+Det sökta talet: 517
+Finns på: 51562 på tid 2584 nanosekunder
+
+Det sökta talet: 150
+Finns på: 14941 på tid 1467 nanosekunder
+
+Det sökta talet: 454
+Finns på: 45606 på tid 2515 nanosekunder
+
+Det sökta talet: 829
+Finns på: 82910 på tid 1536 nanosekunder
+
+Det sökta talet: 423
+Finns på: 42627 på tid 1537 nanosekunder
+
+Det sökta talet: 320
+Finns på: 31738 på tid 2235 nanosekunder
+
+Det sökta talet: 169
+Finns på: 16992 på tid 2235 nanosekunder
+
+Det sökta talet: 283
+Finns på: 28515 på tid 1467 nanosekunder
+
+Det sökta talet: 896
+Finns på: 89551 på tid 2095 nanosekunder
+
+Det sökta talet: 346
+Finns på: 34472 på tid 1606 nanosekunder
+
+Det sökta talet: 979
+Finns på: 97950 på tid 2095 nanosekunder
+
+Det sökta talet: 976
+Finns på: 97559 på tid 2235 nanosekunder
+
+Det sökta talet: 730
+Finns på: 73047 på tid 1467 nanosekunder
+
+Det sökta talet: 586
+Finns på: 58789 på tid 1397 nanosekunder
+
+Det sökta talet: 70
+Finns på: 7031 på tid 2165 nanosekunder
+
+Det sökta talet: 33
+Finns på: 3222 på tid 2025 nanosekunder
+
+Det sökta talet: 596
+Finns på: 59765 på tid 1606 nanosekunder
+
+Det sökta talet: 623
+Finns på: 62304 på tid 1676 nanosekunder
+
+Det sökta talet: 541
+Finns på: 54200 på tid 2096 nanosekunder
+
+Det sökta talet: 118
+Finns på: 11718 på tid 1607 nanosekunder
+
+Det sökta talet: 519
+Finns på: 52051 på tid 1607 nanosekunder
+
+Det sökta talet: 719
+Finns på: 72070 på tid 1397 nanosekunder
+
+Det sökta talet: 205
+Finns på: 20508 på tid 14108 nanosekunder
+
+Det sökta talet: 685
+Finns på: 68749 på tid 1327 nanosekunder
+
+Det sökta talet: 84
+Finns på: 8301 på tid 1118 nanosekunder
+
+Det sökta talet: 26
+Finns på: 2637 på tid 1118 nanosekunder
+
+Det sökta talet: 59
+Finns på: 5762 på tid 1117 nanosekunder
+
+Det sökta talet: 674
+Finns på: 67383 på tid 1117 nanosekunder
+
+Det sökta talet: 194
+Finns på: 19385 på tid 1118 nanosekunder
+
+Det sökta talet: 695
+Finns på: 69727 på tid 1118 nanosekunder
+
+Det sökta talet: 366
+Finns på: 36377 på tid 1188 nanosekunder
+
+Det sökta talet: 277
+Finns på: 27832 på tid 1257 nanosekunder
+
+Det sökta talet: 482
+Finns på: 48242 på tid 1187 nanosekunder
+
+Det sökta talet: 980
+Finns på: 98047 på tid 1257 nanosekunder
+
+Det sökta talet: 862
+Finns på: 86133 på tid 1466 nanosekunder
+
+Det sökta talet: 368
+Finns på: 36621 på tid 1188 nanosekunder
+
+Det sökta talet: 730
+Finns på: 73047 på tid 1117 nanosekunder
+
+Det sökta talet: 573
+Finns på: 57129 på tid 1467 nanosekunder
+
+Det sökta talet: 803
+Finns på: 80468 på tid 1187 nanosekunder
+
+Det sökta talet: 887
+Finns på: 88867 på tid 1117 nanosekunder
+
+Det sökta talet: 12
+Finns på: 1172 på tid 1118 nanosekunder
+
+Det sökta talet: 957
+Finns på: 95606 på tid 1187 nanosekunder
+
+Det sökta talet: 306
+Finns på: 30859 på tid 1117 nanosekunder
+
+Det sökta talet: 963
+Finns på: 96484 på tid 1047 nanosekunder
+
+Det sökta talet: 606
+Finns på: 60547 på tid 1048 nanosekunder
+
+Det sökta talet: 300
+Finns på: 29785 på tid 1466 nanosekunder
+
+Det sökta talet: 645
+Finns på: 64356 på tid 978 nanosekunder
+
+Det sökta talet: 860
+Finns på: 86035 på tid 1885 nanosekunder
+
+Det sökta talet: 108
+Finns på: 10742 på tid 1118 nanosekunder
+
+Det sökta talet: 447
+Finns på: 44727 på tid 1257 nanosekunder
+
+Det sökta talet: 952
+Finns på: 95117 på tid 1188 nanosekunder
+
+Det sökta talet: 891
+Finns på: 89062 på tid 977 nanosekunder
+
+Det sökta talet: 592
+Finns på: 59570 på tid 1537 nanosekunder
+
+Det sökta talet: 938
+Finns på: 93847 på tid 1047 nanosekunder
+
+Det sökta talet: 90
+Finns på: 8789 på tid 1187 nanosekunder
+
+Det sökta talet: 281
+Finns på: 28027 på tid 977 nanosekunder
+
+Det sökta talet: 126
+Finns på: 12499 på tid 978 nanosekunder
+
+Det sökta talet: 546
+Finns på: 54639 på tid 978 nanosekunder
+
+Det sökta talet: 273
+Finns på: 27051 på tid 908 nanosekunder
+
+Det sökta talet: 586
+Finns på: 58691 på tid 1257 nanosekunder
+
+Det sökta talet: 395
+Finns på: 39551 på tid 1118 nanosekunder
+
+Det sökta talet: 747
+Finns på: 74609 på tid 1047 nanosekunder
+
+Det sökta talet: 421
+Finns på: 42187 på tid 1118 nanosekunder
+
+Det sökta talet: 697
+Finns på: 69825 på tid 978 nanosekunder
+
+Det sökta talet: 742
+Finns på: 74218 på tid 1257 nanosekunder
+
+Det sökta talet: 697
+Finns på: 69825 på tid 1676 nanosekunder
+
+Det sökta talet: 75
+Finns på: 7276 på tid 1816 nanosekunder
+
+Det sökta talet: 634
+Finns på: 63184 på tid 1397 nanosekunder
+
+Det sökta talet: 415
+Finns på: 41700 på tid 1118 nanosekunder
+
+Det sökta talet: 760
+Finns på: 76172 på tid 977 nanosekunder
+
+Det sökta talet: 190
+Finns på: 19043 på tid 1327 nanosekunder
+
+Det sökta talet: 293
+Finns på: 29004 på tid 978 nanosekunder
+
+Det sökta talet: 442
+Finns på: 44238 på tid 978 nanosekunder
+
+Det sökta talet: 337
+Finns på: 33593 på tid 907 nanosekunder
+
+Det sökta talet: 60
+Finns på: 5957 på tid 977 nanosekunder
+
+Det sökta talet: 97
+Finns på: 9668 på tid 1187 nanosekunder
+
+Det sökta talet: 115
+Finns på: 11718 på tid 908 nanosekunder
+
+Det sökta talet: 784
+Finns på: 78613 på tid 908 nanosekunder
+
+Det sökta talet: 95
+Finns på: 9570 på tid 908 nanosekunder
+
+Det sökta talet: 992
+Finns på: 99218 på tid 978 nanosekunder
+
+Det sökta talet: 710
+Finns på: 70996 på tid 1327 nanosekunder
+
+Det sökta talet: 523
+Finns på: 51953 på tid 1118 nanosekunder
+
+Det sökta talet: 249
+Finns på: 24804 på tid 1327 nanosekunder
+
+Det sökta talet: 579
+Finns på: 58008 på tid 1886 nanosekunder
+
+Det sökta talet: 758
+Finns på: 75977 på tid 978 nanosekunder
+
+Det sökta talet: 964
+Finns på: 96387 på tid 978 nanosekunder
+
+Det sökta talet: 412
+Finns på: 41113 på tid 1257 nanosekunder
+
+Det sökta talet: 223
+Finns på: 22363 på tid 1327 nanosekunder
+
+Det sökta talet: 820
+Finns på: 82031 på tid 978 nanosekunder
+
+Det sökta talet: 805
+Finns på: 80468 på tid 1117 nanosekunder
+
+Det sökta talet: 177
+Finns på: 17530 på tid 1187 nanosekunder
+
+Det sökta talet: 921
+Finns på: 92285 på tid 1118 nanosekunder
+
+Det sökta talet: 528
+Finns på: 52734 på tid 908 nanosekunder
+
+Det sökta talet: 340
+Finns på: 33984 på tid 907 nanosekunder
+
+Det sökta talet: 20
+Finns på: 1856 på tid 1885 nanosekunder
+
+Det sökta talet: 299
+Finns på: 29687 på tid 1886 nanosekunder
+
+Det sökta talet: 334
+Finns på: 33301 på tid 1257 nanosekunder
+
+Det sökta talet: 873
+Finns på: 87304 på tid 1188 nanosekunder
+
+Det sökta talet: 70
+Finns på: 7031 på tid 1118 nanosekunder
+
+Det sökta talet: 587
+Finns på: 58691 på tid 1327 nanosekunder
+
+Det sökta talet: 256
+Finns på: 25586 på tid 978 nanosekunder
+
+Det sökta talet: 41
+Finns på: 4004 på tid 1048 nanosekunder
+
+Det sökta talet: 335
+Finns på: 33398 på tid 1047 nanosekunder
+
+Det sökta talet: 652
+Finns på: 65039 på tid 1188 nanosekunder
+
+Det sökta talet: 701
+Finns på: 70215 på tid 1048 nanosekunder
+
+Det sökta talet: 782
+Finns på: 78320 på tid 1536 nanosekunder
+
+Det sökta talet: 444
+Finns på: 44336 på tid 1188 nanosekunder
+
+Det sökta talet: 110
+Finns på: 11231 på tid 1466 nanosekunder
+
+Det sökta talet: 300
+Finns på: 29981 på tid 1258 nanosekunder
+
+Det sökta talet: 44
+Finns på: 4297 på tid 1396 nanosekunder
+
+Det sökta talet: 741
+Finns på: 74218 på tid 1467 nanosekunder
+
+Det sökta talet: 396
+Finns på: 39648 på tid 1118 nanosekunder
+
+Det sökta talet: 591
+Finns på: 59277 på tid 1188 nanosekunder
+
+Det sökta talet: 773
+Finns på: 77441 på tid 1257 nanosekunder
+
+Det sökta talet: 807
+Finns på: 80566 på tid 978 nanosekunder
+
+Det sökta talet: 187
+Finns på: 18749 på tid 838 nanosekunder
+
+Det sökta talet: 289
+Finns på: 29004 på tid 1118 nanosekunder
+
+Det sökta talet: 639
+Finns på: 64062 på tid 908 nanosekunder
+
+Det sökta talet: 311
+Finns på: 31152 på tid 908 nanosekunder
+
+Det sökta talet: 915
+Finns på: 91504 på tid 907 nanosekunder
+
+Det sökta talet: 817
+Finns på: 81640 på tid 908 nanosekunder
+
+Det sökta talet: 993
+Finns på: 99316 på tid 1257 nanosekunder
+
+Det sökta talet: 421
+Finns på: 42090 på tid 1187 nanosekunder
+
+Det sökta talet: 277
+Finns på: 27539 på tid 978 nanosekunder
+
+Det sökta talet: 774
+Finns på: 77246 på tid 908 nanosekunder
+
+Det sökta talet: 20
+Finns på: 1953 på tid 1047 nanosekunder
+
+Det sökta talet: 890
+Finns på: 89062 på tid 908 nanosekunder
+
+Det sökta talet: 488
+Finns på: 48731 på tid 1117 nanosekunder
+
+Det sökta talet: 9
+Finns på: 879 på tid 908 nanosekunder
+
+Det sökta talet: 627
+Finns på: 62548 på tid 908 nanosekunder
+
+Det sökta talet: 295
+Finns på: 29687 på tid 1047 nanosekunder
+
+Det sökta talet: 792
+Finns på: 79297 på tid 1117 nanosekunder
+
+Det sökta talet: 6
+Finns på: 586 på tid 908 nanosekunder
+
+Det sökta talet: 667
+Finns på: 66602 på tid 1117 nanosekunder
+
+Det sökta talet: 876
+Finns på: 87695 på tid 1466 nanosekunder
+
+Det sökta talet: 139
+Finns på: 13867 på tid 978 nanosekunder
+
+Det sökta talet: 383
+Finns på: 38575 på tid 908 nanosekunder
+
+Det sökta talet: 244
+Finns på: 24609 på tid 838 nanosekunder
+
+Det sökta talet: 873
+Finns på: 87304 på tid 838 nanosekunder
+
+Det sökta talet: 236
+Finns på: 23535 på tid 1257 nanosekunder
+
+Det sökta talet: 364
+Finns på: 36231 på tid 1048 nanosekunder
+
+Det sökta talet: 416
+Finns på: 41309 på tid 1187 nanosekunder
+
+Det sökta talet: 232
+Finns på: 23242 på tid 1676 nanosekunder
+
+Det sökta talet: 207
+Finns på: 20996 på tid 1606 nanosekunder
+
+Det sökta talet: 268
+Finns på: 26562 på tid 1536 nanosekunder
+
+Det sökta talet: 392
+Finns på: 39258 på tid 1746 nanosekunder
+
+Det sökta talet: 98
+Finns på: 9863 på tid 1537 nanosekunder
+
+Det sökta talet: 878
+Finns på: 87793 på tid 1257 nanosekunder
+
+Det sökta talet: 189
+Finns på: 18652 på tid 1466 nanosekunder
+
+Det sökta talet: 391
+Finns på: 38965 på tid 1047 nanosekunder
+
+Det sökta talet: 573
+Finns på: 57227 på tid 1187 nanosekunder
+
+Det sökta talet: 348
+Finns på: 35059 på tid 1117 nanosekunder
+
+Det sökta talet: 246
+Finns på: 24707 på tid 1117 nanosekunder
+
+Det sökta talet: 715
+Finns på: 71289 på tid 978 nanosekunder
+
+Det sökta talet: 775
+Finns på: 77539 på tid 1467 nanosekunder
+
+Det sökta talet: 828
+Finns på: 83008 på tid 908 nanosekunder
+
+Det sökta talet: 19
+Finns på: 1856 på tid 1187 nanosekunder
+
+Det sökta talet: 198
+Finns på: 19629 på tid 1118 nanosekunder
+
+Det sökta talet: 383
+Finns på: 38281 på tid 978 nanosekunder
+
+Det sökta talet: 943
+Finns på: 94531 på tid 1397 nanosekunder
+
+Det sökta talet: 37
+Finns på: 3613 på tid 908 nanosekunder
+
+Det sökta talet: 141
+Finns på: 13770 på tid 978 nanosekunder
+
+Det sökta talet: 474
+Finns på: 47461 på tid 978 nanosekunder
+
+Det sökta talet: 585
+Finns på: 58496 på tid 1467 nanosekunder
+
+Det sökta talet: 472
+Finns på: 47265 på tid 1397 nanosekunder
+
+Det sökta talet: 43
+Finns på: 4200 på tid 1117 nanosekunder
+
+Det sökta talet: 679
+Finns på: 67871 på tid 1117 nanosekunder
+
+Det sökta talet: 141
+Finns på: 14258 på tid 1327 nanosekunder
+
+Det sökta talet: 522
+Finns på: 52148 på tid 1118 nanosekunder
+
+Det sökta talet: 907
+Finns på: 90820 på tid 1117 nanosekunder
+
+Det sökta talet: 347
+Finns på: 34668 på tid 1327 nanosekunder
+
+Det sökta talet: 435
+Finns på: 43554 på tid 978 nanosekunder
+
+Det sökta talet: 310
+Finns på: 30957 på tid 1048 nanosekunder
+
+Det sökta talet: 692
+Finns på: 69140 på tid 908 nanosekunder
+
+Det sökta talet: 687
+Finns på: 68457 på tid 978 nanosekunder
+
+Det sökta talet: 990
+Finns på: 99023 på tid 1117 nanosekunder
+
+Det sökta talet: 520
+Finns på: 51953 på tid 1118 nanosekunder
+
+Det sökta talet: 494
+Finns på: 49414 på tid 1047 nanosekunder
+
+Det sökta talet: 616
+Finns på: 61426 på tid 1117 nanosekunder
+
+Det sökta talet: 269
+Finns på: 27051 på tid 1258 nanosekunder
+
+Det sökta talet: 400
+Finns på: 40137 på tid 1327 nanosekunder
+
+Det sökta talet: 424
+Finns på: 42383 på tid 1048 nanosekunder
+
+Det sökta talet: 352
+Finns på: 35352 på tid 1187 nanosekunder
+
+Det sökta talet: 421
+Finns på: 41992 på tid 1047 nanosekunder
+
+Det sökta talet: 198
+Finns på: 19922 på tid 1048 nanosekunder
+
+Det sökta talet: 698
+Finns på: 69727 på tid 1048 nanosekunder
+
+Det sökta talet: 625
+Finns på: 62695 på tid 1048 nanosekunder
+
+Det sökta talet: 689
+Finns på: 68749 på tid 769 nanosekunder
+
+Det sökta talet: 604
+Finns på: 60645 på tid 978 nanosekunder
+
+Det sökta talet: 388
+Finns på: 38672 på tid 838 nanosekunder
+
+Det sökta talet: 745
+Finns på: 74414 på tid 839 nanosekunder
+
+Det sökta talet: 997
+Finns på: 99804 på tid 768 nanosekunder
+
+Det sökta talet: 246
+Finns på: 24414 på tid 1327 nanosekunder
+
+Det sökta talet: 439
+Finns på: 43847 på tid 1537 nanosekunder
+
+Det sökta talet: 676
+Finns på: 67773 på tid 1118 nanosekunder
+
+Det sökta talet: 491
+Finns på: 48828 på tid 978 nanosekunder
+
+Det sökta talet: 843
+Finns på: 84131 på tid 1048 nanosekunder
+
+Det sökta talet: 27
+Finns på: 2490 på tid 1188 nanosekunder
+
+Det sökta talet: 680
+Finns på: 68066 på tid 978 nanosekunder
+
+Det sökta talet: 710
+Finns på: 71191 på tid 978 nanosekunder
+
+Det sökta talet: 204
+Finns på: 20508 på tid 1187 nanosekunder
+
+Det sökta talet: 36
+Finns på: 3515 på tid 1118 nanosekunder
+
+Det sökta talet: 74
+Finns på: 7422 på tid 1257 nanosekunder
+
+Det sökta talet: 872
+Finns på: 87304 på tid 978 nanosekunder
+
+Det sökta talet: 832
+Finns på: 83106 på tid 978 nanosekunder
+
+Det sökta talet: 485
+Finns på: 48926 på tid 1188 nanosekunder
+
+Det sökta talet: 114
+Finns på: 11426 på tid 1048 nanosekunder
+
+Det sökta talet: 252
+Finns på: 24999 på tid 1537 nanosekunder
+
+Det sökta talet: 554
+Finns på: 55468 på tid 1187 nanosekunder
+
+Det sökta talet: 20
+Finns på: 1953 på tid 1118 nanosekunder
+
+Det sökta talet: 81
+Finns på: 8008 på tid 1117 nanosekunder
+
+Det sökta talet: 958
+Finns på: 95801 på tid 1187 nanosekunder
+
+Det sökta talet: 254
+Finns på: 25586 på tid 978 nanosekunder
+
+Det sökta talet: 143
+Finns på: 14160 på tid 977 nanosekunder
+
+Det sökta talet: 142
+Finns på: 14356 på tid 1117 nanosekunder
+
+Det sökta talet: 514
+Finns på: 51660 på tid 1188 nanosekunder
+
+Det sökta talet: 467
+Finns på: 46972 på tid 1117 nanosekunder
+
+Det sökta talet: 758
+Finns på: 76075 på tid 1117 nanosekunder
+
+Det sökta talet: 722
+Finns på: 72070 på tid 1188 nanosekunder
+
+Det sökta talet: 509
+Finns på: 50781 på tid 977 nanosekunder
+
+Det sökta talet: 360
+Finns på: 36133 på tid 1117 nanosekunder
+
+Det sökta talet: 705
+Finns på: 70410 på tid 1466 nanosekunder
+
+Det sökta talet: 657
+Finns på: 65722 på tid 1955 nanosekunder
+
+Det sökta talet: 267
+Finns på: 26709 på tid 2026 nanosekunder
+
+Det sökta talet: 328
+Finns på: 33008 på tid 1955 nanosekunder
+
+Det sökta talet: 414
+Finns på: 41602 på tid 1677 nanosekunder
+
+Det sökta talet: 626
+Finns på: 62499 på tid 1956 nanosekunder
+
+Det sökta talet: 887
+Finns på: 88672 på tid 1955 nanosekunder
+
+Det sökta talet: 271
+Finns på: 26953 på tid 1467 nanosekunder
+
+Det sökta talet: 490
+Finns på: 49121 på tid 1606 nanosekunder
+
+Det sökta talet: 982
+Finns på: 98340 på tid 1676 nanosekunder
+
+Det sökta talet: 260
+Finns på: 25781 på tid 1397 nanosekunder
+
+Det sökta talet: 426
+Finns på: 42676 på tid 1118 nanosekunder
+
+Det sökta talet: 48
+Finns på: 4883 på tid 1048 nanosekunder
+
+Det sökta talet: 348
+Finns på: 34863 på tid 1187 nanosekunder
+
+Det sökta talet: 646
+Finns på: 64453 på tid 908 nanosekunder
+
+Det sökta talet: 458
+Finns på: 45801 på tid 977 nanosekunder
+
+Det sökta talet: 846
+Finns på: 84472 på tid 1188 nanosekunder
+
+Det sökta talet: 62
+Finns på: 6347 på tid 1048 nanosekunder
+
+Det sökta talet: 193
+Finns på: 19140 på tid 978 nanosekunder
+
+Det sökta talet: 431
+Finns på: 42920 på tid 908 nanosekunder
+
+Det sökta talet: 880
+Finns på: 88184 på tid 977 nanosekunder
+
+Det sökta talet: 864
+Finns på: 86523 på tid 978 nanosekunder
+
+Det sökta talet: 328
+Finns på: 32715 på tid 1188 nanosekunder
+
+Det sökta talet: 179
+Finns på: 17871 på tid 977 nanosekunder
+
+Det sökta talet: 835
+Finns på: 83593 på tid 1187 nanosekunder
+
+Det sökta talet: 992
+Finns på: 99218 på tid 1048 nanosekunder
+
+Det sökta talet: 306
+Finns på: 30957 på tid 1117 nanosekunder
+
+Det sökta talet: 532
+Finns på: 53271 på tid 1118 nanosekunder
+
+Det sökta talet: 7
+Finns på: 586 på tid 1048 nanosekunder
+
+Det sökta talet: 187
+Finns på: 18749 på tid 838 nanosekunder
+
+Det sökta talet: 329
+Finns på: 32715 på tid 907 nanosekunder
+
+Det sökta talet: 862
+Finns på: 86133 på tid 1117 nanosekunder
+
+Det sökta talet: 605
+Finns på: 60450 på tid 1047 nanosekunder
+
+Det sökta talet: 12
+Finns på: 1172 på tid 908 nanosekunder
+
+Det sökta talet: 540
+Finns på: 54004 på tid 838 nanosekunder
+
+Det sökta talet: 381
+Finns på: 38184 på tid 1048 nanosekunder
+
+Det sökta talet: 95
+Finns på: 9668 på tid 908 nanosekunder
+
+Det sökta talet: 270
+Finns på: 26758 på tid 977 nanosekunder
+
+Det sökta talet: 916
+Finns på: 91700 på tid 908 nanosekunder
+
+Det sökta talet: 699
+Finns på: 69825 på tid 908 nanosekunder
+
+Det sökta talet: 121
+Finns på: 12109 på tid 908 nanosekunder
+
+Det sökta talet: 202
+Finns på: 20020 på tid 1047 nanosekunder
+
+Det sökta talet: 506
+Finns på: 50488 på tid 908 nanosekunder
+
+Det sökta talet: 207
+Finns på: 20703 på tid 1257 nanosekunder
+
+Det sökta talet: 864
+Finns på: 86426 på tid 838 nanosekunder
+
+Det sökta talet: 679
+Finns på: 68066 på tid 1187 nanosekunder
+
+Det sökta talet: 764
+Finns på: 76465 på tid 1048 nanosekunder
+
+Det sökta talet: 939
+Finns på: 93945 på tid 1118 nanosekunder
+
+Det sökta talet: 137
+Finns på: 13770 på tid 1117 nanosekunder
+
+Det sökta talet: 526
+Finns på: 52637 på tid 1047 nanosekunder
+
+Det sökta talet: 721
+Finns på: 72070 på tid 978 nanosekunder
+
+Det sökta talet: 736
+Finns på: 73437 på tid 978 nanosekunder
+
+Det sökta talet: 357
+Finns på: 35645 på tid 1187 nanosekunder
+
+Det sökta talet: 689
+Finns på: 68847 på tid 908 nanosekunder
+
+Det sökta talet: 576
+Finns på: 57715 på tid 1118 nanosekunder
+
+Det sökta talet: 651
+Finns på: 64941 på tid 1047 nanosekunder
+
+Det sökta talet: 602
+Finns på: 59863 på tid 978 nanosekunder
+
+Det sökta talet: 982
+Finns på: 98242 på tid 1048 nanosekunder
+
+Det sökta talet: 850
+Finns på: 85156 på tid 838 nanosekunder
+
+Det sökta talet: 791
+Finns på: 79297 på tid 1048 nanosekunder
+
+Det sökta talet: 316
+Finns på: 31640 på tid 978 nanosekunder
+
+Det sökta talet: 759
+Finns på: 75879 på tid 1048 nanosekunder
+
+Det sökta talet: 679
+Finns på: 67968 på tid 908 nanosekunder
+
+Det sökta talet: 949
+Finns på: 95020 på tid 1048 nanosekunder
+
+Det sökta talet: 882
+Finns på: 88379 på tid 908 nanosekunder
+
+Det sökta talet: 950
+Finns på: 95117 på tid 1397 nanosekunder
+
+Det sökta talet: 909
+Finns på: 91015 på tid 1118 nanosekunder
+
+Det sökta talet: 709
+Finns på: 70606 på tid 1048 nanosekunder
+
+Det sökta talet: 179
+Finns på: 17578 på tid 1188 nanosekunder
+
+Det sökta talet: 585
+Finns på: 58593 på tid 1048 nanosekunder
+
+Det sökta talet: 655
+Finns på: 65332 på tid 1047 nanosekunder
+
+Det sökta talet: 940
+Finns på: 94043 på tid 1188 nanosekunder
+
+Det sökta talet: 479
+Finns på: 47950 på tid 1466 nanosekunder
+
+Det sökta talet: 59
+Finns på: 5859 på tid 1187 nanosekunder
+
+Det sökta talet: 667
+Finns på: 66797 på tid 1047 nanosekunder
+
+Det sökta talet: 947
+Finns på: 94629 på tid 978 nanosekunder
+
+Det sökta talet: 489
+Finns på: 48926 på tid 1047 nanosekunder
+
+Det sökta talet: 165
+Finns på: 16504 på tid 977 nanosekunder
+
+Det sökta talet: 371
+Finns på: 37109 på tid 908 nanosekunder
+
+Det sökta talet: 896
+Finns på: 89453 på tid 1397 nanosekunder
+
+Det sökta talet: 141
+Finns på: 14062 på tid 977 nanosekunder
+
+Det sökta talet: 114
+Finns på: 11231 på tid 1187 nanosekunder
+
+Det sökta talet: 710
+Finns på: 71093 på tid 1048 nanosekunder
+
+Det sökta talet: 504
+Finns på: 50488 på tid 1187 nanosekunder
+
+Det sökta talet: 753
+Finns på: 75293 på tid 1048 nanosekunder
+
+Det sökta talet: 558
+Finns på: 55713 på tid 1118 nanosekunder
+
+Det sökta talet: 10
+Finns på: 977 på tid 978 nanosekunder
+
+Det sökta talet: 404
+Finns på: 40722 på tid 1118 nanosekunder
+
+Det sökta talet: 539
+Finns på: 54004 på tid 978 nanosekunder
+
+Det sökta talet: 935
+Finns på: 93457 på tid 978 nanosekunder
+
+Det sökta talet: 893
+Finns på: 89258 på tid 978 nanosekunder
+
+Det sökta talet: 50
+Finns på: 4981 på tid 908 nanosekunder
+
+Det sökta talet: 33
+Finns på: 3271 på tid 908 nanosekunder
+
+Det sökta talet: 300
+Finns på: 30078 på tid 977 nanosekunder
+
+Det sökta talet: 940
+Finns på: 94140 på tid 838 nanosekunder
+
+Det sökta talet: 492
+Finns på: 49121 på tid 1187 nanosekunder
+
+Det sökta talet: 904
+Finns på: 90429 på tid 977 nanosekunder
+
+Det sökta talet: 144
+Finns på: 14648 på tid 908 nanosekunder
+
+Det sökta talet: 155
+Finns på: 15332 på tid 978 nanosekunder
+
+Det sökta talet: 871
+Finns på: 87304 på tid 977 nanosekunder
+
+Det sökta talet: 800
+Finns på: 79883 på tid 908 nanosekunder
+
+Det sökta talet: 650
+Finns på: 64941 på tid 1187 nanosekunder
+
+Det sökta talet: 526
+Finns på: 52637 på tid 1188 nanosekunder
+
+Det sökta talet: 6
+Finns på: 586 på tid 908 nanosekunder
+
+Det sökta talet: 302
+Finns på: 29785 på tid 978 nanosekunder
+
+Det sökta talet: 225
+Finns på: 22461 på tid 978 nanosekunder
+
+Det sökta talet: 910
+Finns på: 91113 på tid 1047 nanosekunder
+
+Det sökta talet: 39
+Finns på: 3809 på tid 1048 nanosekunder
+
+Det sökta talet: 848
+Finns på: 84961 på tid 1048 nanosekunder
+
+Det sökta talet: 116
+Finns på: 11718 på tid 908 nanosekunder
+
+Det sökta talet: 228
+Finns på: 22754 på tid 1118 nanosekunder
+
+Det sökta talet: 705
+Finns på: 70606 på tid 1118 nanosekunder
+
+Det sökta talet: 438
+Finns på: 43359 på tid 907 nanosekunder
+
+Det sökta talet: 441
+Finns på: 44189 på tid 978 nanosekunder
+
+Det sökta talet: 506
+Finns på: 50488 på tid 908 nanosekunder
+
+Det sökta talet: 392
+Finns på: 39062 på tid 838 nanosekunder
+
+Det sökta talet: 291
+Finns på: 29004 på tid 908 nanosekunder
+
+Det sökta talet: 947
+Finns på: 94825 på tid 908 nanosekunder
+
+Det sökta talet: 585
+Finns på: 58691 på tid 3352 nanosekunder
+
+Det sökta talet: 873
+Finns på: 87304 på tid 978 nanosekunder
+
+Det sökta talet: 168
+Finns på: 16895 på tid 1117 nanosekunder
+
+Det sökta talet: 394
+Finns på: 39453 på tid 908 nanosekunder
+
+Det sökta talet: 446
+Finns på: 44336 på tid 908 nanosekunder
+
+Det sökta talet: 253
+Finns på: 25488 på tid 977 nanosekunder
+
+Det sökta talet: 934
+Finns på: 93554 på tid 908 nanosekunder
+
+Det sökta talet: 541
+Finns på: 54102 på tid 1048 nanosekunder
+
+Det sökta talet: 935
+Finns på: 93749 på tid 838 nanosekunder
+
+Det sökta talet: 411
+Finns på: 41015 på tid 1048 nanosekunder
+
+Det sökta talet: 116
+Finns på: 11523 på tid 1118 nanosekunder
+
+Det sökta talet: 319
+Finns på: 31934 på tid 978 nanosekunder
+
+Det sökta talet: 379
+Finns på: 37695 på tid 1187 nanosekunder
+
+Det sökta talet: 977
+Finns på: 97754 på tid 978 nanosekunder
+
+Det sökta talet: 556
+Finns på: 55664 på tid 978 nanosekunder
+
+Det sökta talet: 950
+Finns på: 94922 på tid 1118 nanosekunder
+
+Det sökta talet: 966
+Finns på: 96679 på tid 908 nanosekunder
+
+Det sökta talet: 686
+Finns på: 68847 på tid 908 nanosekunder
+
+Det sökta talet: 65
+Finns på: 6347 på tid 908 nanosekunder
+
+Det sökta talet: 417
+Finns på: 41992 på tid 908 nanosekunder
+
+Det sökta talet: 46
+Finns på: 4687 på tid 1537 nanosekunder
+
+Det sökta talet: 728
+Finns på: 73047 på tid 1118 nanosekunder
+
+Det sökta talet: 876
+Finns på: 87695 på tid 908 nanosekunder
+
+Det sökta talet: 934
+Finns på: 93457 på tid 907 nanosekunder
+
+Det sökta talet: 439
+Finns på: 43945 på tid 1118 nanosekunder
+
+Det sökta talet: 642
+Finns på: 64258 på tid 908 nanosekunder
+
+Det sökta talet: 19
+Finns på: 1758 på tid 838 nanosekunder
+
+Det sökta talet: 796
+Finns på: 79785 på tid 978 nanosekunder
+
+Det sökta talet: 686
+Finns på: 68847 på tid 978 nanosekunder
+
+Det sökta talet: 100
+Finns på: 9863 på tid 1048 nanosekunder
+
+Det sökta talet: 263
+Finns på: 26172 på tid 978 nanosekunder
+
+Det sökta talet: 245
+Finns på: 24414 på tid 978 nanosekunder
+
+Det sökta talet: 696
+Finns på: 69629 på tid 1048 nanosekunder
+
+Det sökta talet: 909
+Finns på: 90918 på tid 978 nanosekunder
+
+Det sökta talet: 114
+Finns på: 11426 på tid 1048 nanosekunder
+
+Det sökta talet: 837
+Finns på: 83789 på tid 1187 nanosekunder
+
+Det sökta talet: 605
+Finns på: 60450 på tid 1048 nanosekunder
+
+Det sökta talet: 475
+Finns på: 47754 på tid 1048 nanosekunder
+
+Det sökta talet: 447
+Finns på: 44531 på tid 978 nanosekunder
+
+Det sökta talet: 86
+Finns på: 8593 på tid 1048 nanosekunder
+
+Det sökta talet: 791
+Finns på: 79297 på tid 978 nanosekunder
+
+Det sökta talet: 936
+Finns på: 93554 på tid 908 nanosekunder
+
+Det sökta talet: 773
+Finns på: 77539 på tid 978 nanosekunder
+
+Det sökta talet: 52
+Finns på: 5078 på tid 908 nanosekunder
+
+Det sökta talet: 888
+Finns på: 88770 på tid 1187 nanosekunder
+
+Det sökta talet: 237
+Finns på: 23633 på tid 978 nanosekunder
+
+Det sökta talet: 783
+Finns på: 78320 på tid 1188 nanosekunder
+
+Det sökta talet: 947
+Finns på: 94629 på tid 1117 nanosekunder
+
+Det sökta talet: 337
+Finns på: 33691 på tid 978 nanosekunder
+
+Det sökta talet: 380
+Finns på: 38086 på tid 908 nanosekunder
+
+Det sökta talet: 779
+Finns på: 77832 på tid 1537 nanosekunder
+
+Det sökta talet: 743
+Finns på: 74218 på tid 1117 nanosekunder
+
+Det sökta talet: 475
+Finns på: 47363 på tid 978 nanosekunder
+
+Det sökta talet: 224
+Finns på: 22168 på tid 977 nanosekunder
+
+Det sökta talet: 853
+Finns på: 85254 på tid 978 nanosekunder
+
+Det sökta talet: 240
+Finns på: 24121 på tid 1187 nanosekunder
+
+Det sökta talet: 426
+Finns på: 42676 på tid 1466 nanosekunder
+
+Det sökta talet: 276
+Finns på: 27539 på tid 978 nanosekunder
+
+Det sökta talet: 156
+Finns på: 15624 på tid 908 nanosekunder
+
+Det sökta talet: 46
+Finns på: 4590 på tid 1117 nanosekunder
+
+Det sökta talet: 72
+Finns på: 7129 på tid 907 nanosekunder
+
+Det sökta talet: 46
+Finns på: 4492 på tid 908 nanosekunder
+
+Det sökta talet: 430
+Finns på: 43164 på tid 978 nanosekunder
+
+Det sökta talet: 439
+Finns på: 43945 på tid 1117 nanosekunder
+
+Det sökta talet: 216
+Finns på: 21582 på tid 978 nanosekunder
+
+Det sökta talet: 729
+Finns på: 73145 på tid 907 nanosekunder
+
+Det sökta talet: 40
+Finns på: 4102 på tid 977 nanosekunder
+
+Det sökta talet: 150
+Finns på: 14648 på tid 1466 nanosekunder
+
+Det sökta talet: 626
+Finns på: 62499 på tid 838 nanosekunder
+
+Det sökta talet: 150
+Finns på: 15088 på tid 908 nanosekunder
+
+Det sökta talet: 101
+Finns på: 10059 på tid 1955 nanosekunder
+
+Det sökta talet: 663
+Finns på: 66113 på tid 1117 nanosekunder
+
+Det sökta talet: 36
+Finns på: 3515 på tid 977 nanosekunder
+
+Det sökta talet: 133
+Finns på: 13379 på tid 1536 nanosekunder
+
+Det sökta talet: 941
+Finns på: 94238 på tid 1258 nanosekunder
+
+Det sökta talet: 789
+Finns på: 79004 på tid 978 nanosekunder
+
+Det sökta talet: 332
+Finns på: 33301 på tid 1117 nanosekunder
+
+Det sökta talet: 756
+Finns på: 76075 på tid 978 nanosekunder
+
+Det sökta talet: 80
+Finns på: 7910 på tid 978 nanosekunder
+
+Det sökta talet: 888
+Finns på: 88770 på tid 1118 nanosekunder
+
+Det sökta talet: 95
+Finns på: 9521 på tid 1188 nanosekunder
+
+Det sökta talet: 171
+Finns på: 17090 på tid 978 nanosekunder
+
+Det sökta talet: 53
+Finns på: 5176 på tid 1117 nanosekunder
+
+Det sökta talet: 295
+Finns på: 29590 på tid 908 nanosekunder
+
+Det sökta talet: 386
+Finns på: 38575 på tid 908 nanosekunder
+
+Det sökta talet: 58
+Finns på: 5859 på tid 1117 nanosekunder
+
+Det sökta talet: 991
+Finns på: 99121 på tid 907 nanosekunder
+
+Det sökta talet: 243
+Finns på: 24414 på tid 978 nanosekunder
+
+Det sökta talet: 160
+Finns på: 16015 på tid 908 nanosekunder
+
+Det sökta talet: 107
+Finns på: 10645 på tid 1048 nanosekunder
+
+Det sökta talet: 518
+Finns på: 51758 på tid 1257 nanosekunder
+
+Det sökta talet: 790
+Finns på: 79200 på tid 978 nanosekunder
+
+Det sökta talet: 982
+Finns på: 98242 på tid 838 nanosekunder
+
+Det sökta talet: 288
+Finns på: 28809 på tid 1187 nanosekunder
+
+Det sökta talet: 670
+Finns på: 66797 på tid 978 nanosekunder
+
+Det sökta talet: 55
+Finns på: 5468 på tid 1047 nanosekunder
+
+Det sökta talet: 785
+Finns på: 78711 på tid 1117 nanosekunder
+
+Det sökta talet: 118
+Finns på: 11718 på tid 838 nanosekunder
+
+Det sökta talet: 826
+Finns på: 82715 på tid 908 nanosekunder
+
+Det sökta talet: 342
+Finns på: 34082 på tid 1188 nanosekunder
+
+Det sökta talet: 242
+Finns på: 24218 på tid 978 nanosekunder
+
+Det sökta talet: 558
+Finns på: 55859 på tid 1117 nanosekunder
+
+Det sökta talet: 249
+Finns på: 24902 på tid 978 nanosekunder
+
+Det sökta talet: 622
+Finns på: 62402 på tid 978 nanosekunder
+
+Det sökta talet: 951
+Finns på: 95117 på tid 1117 nanosekunder
+
+Det sökta talet: 662
+Finns på: 66015 på tid 908 nanosekunder
+
+Det sökta talet: 738
+Finns på: 73828 på tid 1047 nanosekunder
+
+Det sökta talet: 139
+Finns på: 13770 på tid 978 nanosekunder
+
+Det sökta talet: 78
+Finns på: 7617 på tid 908 nanosekunder
+
+Det sökta talet: 588
+Finns på: 58691 på tid 1118 nanosekunder
+
+Det sökta talet: 80
+Finns på: 7910 på tid 1188 nanosekunder
+
+Det sökta talet: 874
+Finns på: 87304 på tid 978 nanosekunder
+
+Det sökta talet: 203
+Finns på: 20117 på tid 1118 nanosekunder
+
+Det sökta talet: 160
+Finns på: 15918 på tid 978 nanosekunder
+
+Det sökta talet: 395
+Finns på: 39648 på tid 1397 nanosekunder
+
+Det sökta talet: 995
+Finns på: 99512 på tid 1118 nanosekunder
+
+Det sökta talet: 202
+Finns på: 20117 på tid 1117 nanosekunder
+
+Det sökta talet: 696
+Finns på: 69531 på tid 1048 nanosekunder
+
+Det sökta talet: 273
+Finns på: 27148 på tid 908 nanosekunder
+
+Det sökta talet: 372
+Finns på: 37402 på tid 1188 nanosekunder
+
+Det sökta talet: 639
+Finns på: 63965 på tid 1048 nanosekunder
+
+Det sökta talet: 461
+Finns på: 45898 på tid 1117 nanosekunder
+
+Det sökta talet: 542
+Finns på: 54492 på tid 978 nanosekunder
+
+Det sökta talet: 774
+Finns på: 77441 på tid 1118 nanosekunder
+
+Det sökta talet: 747
+Finns på: 74902 på tid 978 nanosekunder
+
+Det sökta talet: 696
+Finns på: 69629 på tid 908 nanosekunder
+
+Det sökta talet: 880
+Finns på: 87988 på tid 908 nanosekunder
+
+Det sökta talet: 343
+Finns på: 34277 på tid 978 nanosekunder
+
+Det sökta talet: 356
+Finns på: 35840 på tid 978 nanosekunder
+
+Det sökta talet: 883
+Finns på: 88281 på tid 1187 nanosekunder
+
+Det sökta talet: 1
+Finns på: 48 på tid 978 nanosekunder
+
+Det sökta talet: 522
+Finns på: 52148 på tid 1257 nanosekunder
+
+Det sökta talet: 235
+Finns på: 23731 på tid 1048 nanosekunder
+
+Det sökta talet: 566
+Finns på: 56787 på tid 1118 nanosekunder
+
+Det sökta talet: 24
+Finns på: 2343 på tid 1047 nanosekunder
+
+Det sökta talet: 691
+Finns på: 69043 på tid 1048 nanosekunder
+
+Det sökta talet: 181
+Finns på: 17968 på tid 978 nanosekunder
+
+Det sökta talet: 798
+Finns på: 79785 på tid 908 nanosekunder
+
+Det sökta talet: 822
+Finns på: 82129 på tid 977 nanosekunder
+
+Det sökta talet: 395
+Finns på: 39551 på tid 1187 nanosekunder
+
+Det sökta talet: 853
+Finns på: 85352 på tid 978 nanosekunder
+
+Det sökta talet: 27
+Finns på: 2734 på tid 908 nanosekunder
+
+Det sökta talet: 479
+Finns på: 47950 på tid 1397 nanosekunder
+
+Det sökta talet: 169
+Finns på: 16895 på tid 1257 nanosekunder
+
+Det sökta talet: 794
+Finns på: 79687 på tid 1187 nanosekunder
+
+Det sökta talet: 41
+Finns på: 4004 på tid 1187 nanosekunder
+
+Det sökta talet: 772
+Finns på: 77148 på tid 1537 nanosekunder
+
+Det sökta talet: 690
+Finns på: 69043 på tid 1187 nanosekunder
+
+Det sökta talet: 271
+Finns på: 27051 på tid 1467 nanosekunder
+
+Det sökta talet: 398
+Finns på: 39746 på tid 1257 nanosekunder
+
+Det sökta talet: 535
+Finns på: 53515 på tid 977 nanosekunder
+
+Det sökta talet: 153
+Finns på: 15234 på tid 2026 nanosekunder
+
+Det sökta talet: 610
+Finns på: 61133 på tid 1258 nanosekunder
+
+Det sökta talet: 629
+Finns på: 62890 på tid 908 nanosekunder
+
+Det sökta talet: 49
+Finns på: 4883 på tid 1117 nanosekunder
+
+Det sökta talet: 541
+Finns på: 54102 på tid 838 nanosekunder
+
+Det sökta talet: 462
+Finns på: 46191 på tid 838 nanosekunder
+
+Det sökta talet: 378
+Finns på: 37695 på tid 908 nanosekunder
+
+Det sökta talet: 126
+Finns på: 12597 på tid 838 nanosekunder
+
+Det sökta talet: 722
+Finns på: 72168 på tid 908 nanosekunder
+
+Det sökta talet: 976
+Finns på: 97559 på tid 978 nanosekunder
+
+Det sökta talet: 564
+Finns på: 56738 på tid 1048 nanosekunder
+
+Det sökta talet: 417
+Finns på: 41797 på tid 1047 nanosekunder
+
+Det sökta talet: 111
+Finns på: 11035 på tid 978 nanosekunder
+
+Det sökta talet: 262
+Finns på: 25977 på tid 1118 nanosekunder
+
+Det sökta talet: 607
+Finns på: 60547 på tid 908 nanosekunder
+
+Det sökta talet: 553
+Finns på: 55468 på tid 908 nanosekunder
+
+Det sökta talet: 973
+Finns på: 97265 på tid 1118 nanosekunder
+
+Det sökta talet: 574
+Finns på: 57422 på tid 1117 nanosekunder
+
+Det sökta talet: 697
+Finns på: 70020 på tid 978 nanosekunder
+
+Det sökta talet: 144
+Finns på: 14258 på tid 1048 nanosekunder
+
+Det sökta talet: 327
+Finns på: 32617 på tid 838 nanosekunder
+
+Det sökta talet: 628
+Finns på: 63086 på tid 838 nanosekunder
+
+Det sökta talet: 159
+Finns på: 15918 på tid 908 nanosekunder
+
+Det sökta talet: 311
+Finns på: 31054 på tid 838 nanosekunder
+
+Det sökta talet: 764
+Finns på: 76367 på tid 1606 nanosekunder
+
+Det sökta talet: 95
+Finns på: 9277 på tid 1327 nanosekunder
+
+Det sökta talet: 932
+Finns på: 93164 på tid 908 nanosekunder
+
+Det sökta talet: 411
+Finns på: 41015 på tid 908 nanosekunder
+
+Det sökta talet: 495
+Finns på: 49512 på tid 1048 nanosekunder
+
+Det sökta talet: 821
+Finns på: 82227 på tid 1048 nanosekunder
+
+Det sökta talet: 328
+Finns på: 32812 på tid 1047 nanosekunder
+
+Det sökta talet: 810
+Finns på: 80957 på tid 978 nanosekunder
+
+Det sökta talet: 329
+Finns på: 32715 på tid 1188 nanosekunder
+
+Det sökta talet: 555
+Finns på: 55371 på tid 978 nanosekunder
+
+Det sökta talet: 261
+Finns på: 26075 på tid 1187 nanosekunder
+
+Det sökta talet: 113
+Finns på: 11328 på tid 908 nanosekunder
+
+Det sökta talet: 342
+Finns på: 34374 på tid 978 nanosekunder
+
+Det sökta talet: 1
+Finns på: 97 på tid 908 nanosekunder
+
+Det sökta talet: 347
+Finns på: 34765 på tid 978 nanosekunder
+
+Det sökta talet: 36
+Finns på: 3418 på tid 908 nanosekunder
+
+Det sökta talet: 462
+Finns på: 46191 på tid 907 nanosekunder
+
+Det sökta talet: 835
+Finns på: 83691 på tid 908 nanosekunder
+
+Det sökta talet: 381
+Finns på: 38086 på tid 838 nanosekunder
+
+Det sökta talet: 192
+Finns på: 19336 på tid 1257 nanosekunder
+
+Det sökta talet: 316
+Finns på: 31592 på tid 908 nanosekunder
+
+Det sökta talet: 920
+Finns på: 92090 på tid 1187 nanosekunder
+
+Det sökta talet: 915
+Finns på: 91504 på tid 978 nanosekunder
+
+Det sökta talet: 420
+Finns på: 41992 på tid 908 nanosekunder
+
+Det sökta talet: 198
+Finns på: 19531 på tid 908 nanosekunder
+
+Det sökta talet: 297
+Finns på: 29687 på tid 1118 nanosekunder
+
+Det sökta talet: 912
+Finns på: 91211 på tid 908 nanosekunder
+
+Det sökta talet: 931
+Finns på: 93164 på tid 978 nanosekunder
+
+Det sökta talet: 206
+Finns på: 20801 på tid 908 nanosekunder
+
+Det sökta talet: 742
+Finns på: 74218 på tid 838 nanosekunder
+
+Det sökta talet: 659
+Finns på: 65918 på tid 838 nanosekunder
+
+Det sökta talet: 465
+Finns på: 46289 på tid 978 nanosekunder
+
+Det sökta talet: 193
+Finns på: 19385 på tid 908 nanosekunder
+
+Det sökta talet: 578
+Finns på: 57910 på tid 977 nanosekunder
+
+Det sökta talet: 458
+Finns på: 45606 på tid 978 nanosekunder
+
+Det sökta talet: 859
+Finns på: 85937 på tid 839 nanosekunder
+
+Det sökta talet: 389
+Finns på: 38867 på tid 1187 nanosekunder
+
+Det sökta talet: 153
+Finns på: 15234 på tid 908 nanosekunder
+
+Det sökta talet: 915
+Finns på: 91602 på tid 1537 nanosekunder
+
+Det sökta talet: 909
+Finns på: 90918 på tid 1187 nanosekunder
+
+Det sökta talet: 243
+Finns på: 24609 på tid 1048 nanosekunder
+
+Det sökta talet: 910
+Finns på: 91015 på tid 908 nanosekunder
+
+Det sökta talet: 5
+Finns på: 390 på tid 1048 nanosekunder
+
+Det sökta talet: 179
+Finns på: 17968 på tid 908 nanosekunder
+
+Det sökta talet: 290
+Finns på: 29102 på tid 908 nanosekunder
+
+Det sökta talet: 269
+Finns på: 26856 på tid 1118 nanosekunder
+
+Det sökta talet: 452
+Finns på: 45020 på tid 1118 nanosekunder
+
+Det sökta talet: 456
+Finns på: 45703 på tid 838 nanosekunder
+
+Det sökta talet: 626
+Finns på: 62353 på tid 1118 nanosekunder
+
+Det sökta talet: 547
+Finns på: 54785 på tid 1048 nanosekunder
+
+Det sökta talet: 438
+Finns på: 43554 på tid 978 nanosekunder
+
+Det sökta talet: 878
+Finns på: 87793 på tid 908 nanosekunder
+
+Det sökta talet: 851
+Finns på: 85156 på tid 908 nanosekunder
+
+Det sökta talet: 70
+Finns på: 6934 på tid 1047 nanosekunder
+
+Det sökta talet: 17
+Finns på: 1660 på tid 838 nanosekunder
+
+Det sökta talet: 373
+Finns på: 37012 på tid 907 nanosekunder
+
+Det sökta talet: 224
+Finns på: 22363 på tid 908 nanosekunder
+
+Det sökta talet: 178
+Finns på: 17871 på tid 978 nanosekunder
+
+Det sökta talet: 161
+Finns på: 16113 på tid 908 nanosekunder
+
+Det sökta talet: 937
+Finns på: 93554 på tid 908 nanosekunder
+
+Det sökta talet: 91
+Finns på: 9179 på tid 977 nanosekunder
+
+Det sökta talet: 298
+Finns på: 29687 på tid 1048 nanosekunder
+
+Det sökta talet: 839
+Finns på: 83789 på tid 977 nanosekunder
+
+Det sökta talet: 468
+Finns på: 46484 på tid 978 nanosekunder
+
+Det sökta talet: 595
+Finns på: 59668 på tid 1117 nanosekunder
+
+Det sökta talet: 389
+Finns på: 39160 på tid 978 nanosekunder
+
+Det sökta talet: 70
+Finns på: 7129 på tid 978 nanosekunder
+
+Det sökta talet: 286
+Finns på: 28809 på tid 908 nanosekunder
+
+Det sökta talet: 61
+Finns på: 5957 på tid 1746 nanosekunder
+
+Det sökta talet: 80
+Finns på: 7812 på tid 908 nanosekunder
+
+Det sökta talet: 465
+Finns på: 46387 på tid 1047 nanosekunder
+
+Det sökta talet: 260
+Finns på: 26075 på tid 908 nanosekunder
+
+Det sökta talet: 455
+Finns på: 45410 på tid 978 nanosekunder
+
+Det sökta talet: 548
+Finns på: 55078 på tid 978 nanosekunder
+
+Det sökta talet: 399
+Finns på: 40039 på tid 977 nanosekunder
+
+Det sökta talet: 431
+Finns på: 43066 på tid 978 nanosekunder
+
+Det sökta talet: 772
+Finns på: 77246 på tid 1117 nanosekunder
+
+Det sökta talet: 720
+Finns på: 72168 på tid 978 nanosekunder
+
+Det sökta talet: 542
+Finns på: 54346 på tid 1048 nanosekunder
+
+Det sökta talet: 349
+Finns på: 34961 på tid 977 nanosekunder
+
+Det sökta talet: 256
+Finns på: 25586 på tid 1187 nanosekunder
+
+Det sökta talet: 700
+Finns på: 70020 på tid 1397 nanosekunder
+
+Det sökta talet: 183
+Finns på: 18262 på tid 2095 nanosekunder
+
+Det sökta talet: 901
+Finns på: 90137 på tid 1816 nanosekunder
+
+Det sökta talet: 902
+Finns på: 90137 på tid 1396 nanosekunder
+
+Det sökta talet: 409
+Finns på: 40722 på tid 1816 nanosekunder
+
+Det sökta talet: 459
+Finns på: 45898 på tid 1955 nanosekunder
+
+Det sökta talet: 291
+Finns på: 29004 på tid 1816 nanosekunder
+
+Det sökta talet: 787
+Finns på: 78711 på tid 1188 nanosekunder
+
+Det sökta talet: 316
+Finns på: 31836 på tid 1746 nanosekunder
+
+Det sökta talet: 339
+Finns på: 33740 på tid 1816 nanosekunder
+
+Det sökta talet: 932
+Finns på: 93262 på tid 1746 nanosekunder
+
+Det sökta talet: 360
+Finns på: 35840 på tid 1117 nanosekunder
+
+Det sökta talet: 787
+Finns på: 78711 på tid 977 nanosekunder
+
+Det sökta talet: 945
+Finns på: 94531 på tid 1467 nanosekunder
+
+Det sökta talet: 504
+Finns på: 50390 på tid 1047 nanosekunder
+
+Det sökta talet: 26
+Finns på: 2539 på tid 1048 nanosekunder
+
+Det sökta talet: 1
+Finns på: 48 på tid 838 nanosekunder
+
+Det sökta talet: 633
+Finns på: 63379 på tid 1048 nanosekunder
+
+Det sökta talet: 42
+Finns på: 4102 på tid 907 nanosekunder
+
+Det sökta talet: 3
+Finns på: 293 på tid 1117 nanosekunder
+
+Det sökta talet: 635
+Finns på: 63379 på tid 1188 nanosekunder
+
+Det sökta talet: 16
+Finns på: 1562 på tid 838 nanosekunder
+
+Det sökta talet: 995
+Finns på: 99609 på tid 838 nanosekunder
+
+Det sökta talet: 630
+Finns på: 63086 på tid 838 nanosekunder
+
+Det sökta talet: 505
+Finns på: 50390 på tid 838 nanosekunder
+
+Det sökta talet: 17
+Finns på: 1660 på tid 1118 nanosekunder
+
+Det sökta talet: 411
+Finns på: 40918 på tid 978 nanosekunder
+
+Det sökta talet: 103
+Finns på: 10254 på tid 908 nanosekunder
+
+Det sökta talet: 110
+Finns på: 11035 på tid 1048 nanosekunder
+
+Det sökta talet: 895
+Finns på: 89551 på tid 908 nanosekunder
+
+Det sökta talet: 939
+Finns på: 94043 på tid 907 nanosekunder
+
+Det sökta talet: 813
+Finns på: 81445 på tid 908 nanosekunder
+
+Det sökta talet: 638
+Finns på: 63477 på tid 978 nanosekunder
+
+Det sökta talet: 106
+Finns på: 10352 på tid 838 nanosekunder
+
+Det sökta talet: 237
+Finns på: 23926 på tid 908 nanosekunder
+
+Det sökta talet: 353
+Finns på: 35450 på tid 1117 nanosekunder
+
+Det sökta talet: 289
+Finns på: 28906 på tid 978 nanosekunder
+
+Det sökta talet: 802
+Finns på: 80273 på tid 908 nanosekunder
+
+Det sökta talet: 394
+Finns på: 39453 på tid 838 nanosekunder
+
+Det sökta talet: 507
+Finns på: 50586 på tid 908 nanosekunder
+
+Det sökta talet: 929
+Finns på: 92968 på tid 978 nanosekunder
+
+Det sökta talet: 791
+Finns på: 79395 på tid 1397 nanosekunder
+
+Det sökta talet: 447
+Finns på: 44727 på tid 1746 nanosekunder
+
+Det sökta talet: 490
+Finns på: 49023 på tid 2165 nanosekunder
+
+Det sökta talet: 979
+Finns på: 97950 på tid 1816 nanosekunder
+
+Det sökta talet: 705
+Finns på: 70703 på tid 1746 nanosekunder
+
+Det sökta talet: 690
+Finns på: 69043 på tid 1956 nanosekunder
+
+Det sökta talet: 26
+Finns på: 2539 på tid 2374 nanosekunder
+
+Det sökta talet: 139
+Finns på: 13867 på tid 2025 nanosekunder
+
+Det sökta talet: 254
+Finns på: 25293 på tid 1467 nanosekunder
+
+Det sökta talet: 459
+Finns på: 45508 på tid 1955 nanosekunder
+
+Det sökta talet: 851
+Finns på: 85156 på tid 1327 nanosekunder
+
+Det sökta talet: 12
+Finns på: 1172 på tid 2165 nanosekunder
+
+Det sökta talet: 453
+Finns på: 45215 på tid 1956 nanosekunder
+
+Det sökta talet: 289
+Finns på: 29102 på tid 1956 nanosekunder
+
+Det sökta talet: 652
+Finns på: 65234 på tid 2305 nanosekunder
+
+Det sökta talet: 957
+Finns på: 95703 på tid 2235 nanosekunder
+
+Det sökta talet: 853
+Finns på: 85352 på tid 1536 nanosekunder
+
+Det sökta talet: 886
+Finns på: 88575 på tid 1746 nanosekunder
+
+Det sökta talet: 431
+Finns på: 43262 på tid 2165 nanosekunder
+
+Det sökta talet: 502
+Finns på: 50097 på tid 1397 nanosekunder
+
+Det sökta talet: 891
+Finns på: 89258 på tid 908 nanosekunder
+
+Det sökta talet: 120
+Finns på: 11767 på tid 978 nanosekunder
+
+Det sökta talet: 868
+Finns på: 86914 på tid 1257 nanosekunder
+
+Det sökta talet: 503
+Finns på: 50390 på tid 1048 nanosekunder
+
+Det sökta talet: 695
+Finns på: 69825 på tid 1117 nanosekunder
+
+Det sökta talet: 342
+Finns på: 34374 på tid 1117 nanosekunder
+
+Det sökta talet: 247
+Finns på: 24512 på tid 1396 nanosekunder
+
+Det sökta talet: 792
+Finns på: 79346 på tid 1257 nanosekunder
+
+Det sökta talet: 848
+Finns på: 84668 på tid 1676 nanosekunder
+
+Det sökta talet: 705
+Finns på: 70801 på tid 1606 nanosekunder
+
+Det sökta talet: 132
+Finns på: 13184 på tid 1676 nanosekunder
+
+Det sökta talet: 458
+Finns på: 45898 på tid 1397 nanosekunder
+
+Det sökta talet: 827
+Finns på: 82910 på tid 1117 nanosekunder
+
+Det sökta talet: 763
+Finns på: 76465 på tid 1815 nanosekunder
+
+Det sökta talet: 94
+Finns på: 9472 på tid 1118 nanosekunder
+
+Det sökta talet: 52
+Finns på: 5176 på tid 1327 nanosekunder
+
+Det sökta talet: 128
+Finns på: 12793 på tid 1257 nanosekunder
+
+Det sökta talet: 603
+Finns på: 60156 på tid 1397 nanosekunder
+
+Det sökta talet: 427
+Finns på: 42773 på tid 1048 nanosekunder
+
+Det sökta talet: 937
+Finns på: 93749 på tid 1536 nanosekunder
+
+Det sökta talet: 355
+Finns på: 35352 på tid 1746 nanosekunder
+
+Det sökta talet: 914
+Finns på: 91406 på tid 1188 nanosekunder
+
+Det sökta talet: 991
+Finns på: 99121 på tid 1676 nanosekunder
+
+Det sökta talet: 759
+Finns på: 75879 på tid 1048 nanosekunder
+
+Det sökta talet: 870
+Finns på: 86816 på tid 978 nanosekunder
+
+Det sökta talet: 941
+Finns på: 94140 på tid 978 nanosekunder
+
+Det sökta talet: 9
+Finns på: 879 på tid 1397 nanosekunder
+
+Det sökta talet: 449
+Finns på: 44825 på tid 1327 nanosekunder
+
+Det sökta talet: 971
+Finns på: 97070 på tid 1327 nanosekunder
+
+Det sökta talet: 967
+Finns på: 96777 på tid 978 nanosekunder
+
+Det sökta talet: 901
+Finns på: 90039 på tid 1397 nanosekunder
+
+Det sökta talet: 535
+Finns på: 53515 på tid 2096 nanosekunder
+
+Det sökta talet: 929
+Finns på: 92968 på tid 1677 nanosekunder
+
+Det sökta talet: 92
+Finns på: 9277 på tid 1956 nanosekunder
+
+Det sökta talet: 36
+Finns på: 3613 på tid 1187 nanosekunder
+
+Det sökta talet: 529
+Finns på: 53320 på tid 978 nanosekunder
+
+Det sökta talet: 646
+Finns på: 64551 på tid 1257 nanosekunder
+
+Det sökta talet: 336
+Finns på: 33398 på tid 1676 nanosekunder
+
+Det sökta talet: 514
+Finns på: 51172 på tid 1606 nanosekunder
+
+Det sökta talet: 49
+Finns på: 4785 på tid 1746 nanosekunder
+
+Det sökta talet: 132
+Finns på: 13184 på tid 1955 nanosekunder
+
+Det sökta talet: 762
+Finns på: 76172 på tid 1956 nanosekunder
+
+Det sökta talet: 41
+Finns på: 4004 på tid 1536 nanosekunder
+
+Det sökta talet: 920
+Finns på: 92187 på tid 1746 nanosekunder
+
+Det sökta talet: 483
+Finns på: 48437 på tid 1676 nanosekunder
+
+Det sökta talet: 164
+Finns på: 16211 på tid 1956 nanosekunder
+
+Det sökta talet: 197
+Finns på: 19629 på tid 1885 nanosekunder
+
+Det sökta talet: 976
+Finns på: 97656 på tid 1677 nanosekunder
+
+Det sökta talet: 549
+Finns på: 54883 på tid 1326 nanosekunder
+
+Det sökta talet: 49
+Finns på: 4883 på tid 1257 nanosekunder
+
+Det sökta talet: 424
+Finns på: 42285 på tid 1047 nanosekunder
+
+Det sökta talet: 363
+Finns på: 36523 på tid 977 nanosekunder
+
+Det sökta talet: 11
+Finns på: 1075 på tid 977 nanosekunder
+
+Det sökta talet: 130
+Finns på: 12695 på tid 977 nanosekunder
+
+Det sökta talet: 392
+Finns på: 39160 på tid 1047 nanosekunder
+
+Det sökta talet: 230
+Finns på: 22950 på tid 977 nanosekunder
+
+Det sökta talet: 175
+Finns på: 17383 på tid 1117 nanosekunder
+
+Det sökta talet: 217
+Finns på: 21777 på tid 978 nanosekunder
+
+Det sökta talet: 411
+Finns på: 41113 på tid 1188 nanosekunder
+
+Det sökta talet: 370
+Finns på: 37109 på tid 978 nanosekunder
+
+Det sökta talet: 389
+Finns på: 39014 på tid 1257 nanosekunder
+
+Det sökta talet: 476
+Finns på: 47461 på tid 908 nanosekunder
+
+Det sökta talet: 57
+Finns på: 5664 på tid 908 nanosekunder
+
+Det sökta talet: 922
+Finns på: 92187 på tid 1048 nanosekunder
+
+Det sökta talet: 607
+Finns på: 60889 på tid 908 nanosekunder
+
+Det sökta talet: 273
+Finns på: 27343 på tid 1047 nanosekunder
+
+Det sökta talet: 164
+Finns på: 16504 på tid 1048 nanosekunder
+
+Det sökta talet: 578
+Finns på: 57812 på tid 908 nanosekunder
+
+Det sökta talet: 304
+Finns på: 30273 på tid 1606 nanosekunder
+
+Det sökta talet: 430
+Finns på: 43164 på tid 908 nanosekunder
+
+Det sökta talet: 939
+Finns på: 93945 på tid 838 nanosekunder
+
+Det sökta talet: 807
+Finns på: 80762 på tid 1187 nanosekunder
+
+Det sökta talet: 649
+Finns på: 64941 på tid 978 nanosekunder
+
+Det sökta talet: 581
+Finns på: 58203 på tid 978 nanosekunder
+
+Det sökta talet: 998
+Finns på: 99804 på tid 838 nanosekunder
+
+Det sökta talet: 511
+Finns på: 51075 på tid 1047 nanosekunder
+
+Det sökta talet: 545
+Finns på: 54395 på tid 978 nanosekunder
+
+Det sökta talet: 416
+Finns på: 41797 på tid 838 nanosekunder
+
+Det sökta talet: 774
+Finns på: 77343 på tid 977 nanosekunder
+
+Det sökta talet: 153
+Finns på: 15234 på tid 1467 nanosekunder
+
+Det sökta talet: 932
+Finns på: 93164 på tid 1117 nanosekunder
+
+Det sökta talet: 91
+Finns på: 8789 på tid 908 nanosekunder
+
+Det sökta talet: 882
+Finns på: 88281 på tid 1117 nanosekunder
+
+Det sökta talet: 870
+Finns på: 87109 på tid 908 nanosekunder
+
+Det sökta talet: 522
+Finns på: 52343 på tid 838 nanosekunder
+
+Det sökta talet: 727
+Finns på: 72559 på tid 978 nanosekunder
+
+Det sökta talet: 704
+Finns på: 70508 på tid 1118 nanosekunder
+
+Det sökta talet: 278
+Finns på: 27637 på tid 1047 nanosekunder
+
+Det sökta talet: 952
+Finns på: 95312 på tid 1327 nanosekunder
+
+Det sökta talet: 934
+Finns på: 93554 på tid 908 nanosekunder
+
+Det sökta talet: 675
+Finns på: 67578 på tid 907 nanosekunder
+
+Det sökta talet: 684
+Finns på: 68262 på tid 977 nanosekunder
+
+Det sökta talet: 225
+Finns på: 22559 på tid 908 nanosekunder
+
+Det sökta talet: 566
+Finns på: 56347 på tid 978 nanosekunder
+
+Det sökta talet: 498
+Finns på: 49756 på tid 908 nanosekunder
+
+Det sökta talet: 219
+Finns på: 21874 på tid 908 nanosekunder
+
+Det sökta talet: 139
+Finns på: 13867 på tid 977 nanosekunder
+
+Det sökta talet: 442
+Finns på: 44336 på tid 908 nanosekunder
+
+Det sökta talet: 777
+Finns på: 77637 på tid 1118 nanosekunder
+
+Det sökta talet: 929
+Finns på: 92968 på tid 908 nanosekunder
+
+Det sökta talet: 381
+Finns på: 38184 på tid 978 nanosekunder
+
+Det sökta talet: 612
+Finns på: 61035 på tid 908 nanosekunder
+
+Det sökta talet: 378
+Finns på: 37890 på tid 838 nanosekunder
+
+Det sökta talet: 262
+Finns på: 26075 på tid 1048 nanosekunder
+
+Det sökta talet: 851
+Finns på: 85254 på tid 977 nanosekunder
+
+Det sökta talet: 864
+Finns på: 86328 på tid 977 nanosekunder
+
+Det sökta talet: 152
+Finns på: 15332 på tid 1048 nanosekunder
+
+Det sökta talet: 455
+Finns på: 45410 på tid 977 nanosekunder
+
+Det sökta talet: 811
+Finns på: 80957 på tid 1118 nanosekunder
+
+Det sökta talet: 523
+Finns på: 52246 på tid 1048 nanosekunder
+
+Det sökta talet: 531
+Finns på: 53173 på tid 908 nanosekunder
+
+Det sökta talet: 291
+Finns på: 29297 på tid 838 nanosekunder
+
+Det sökta talet: 413
+Finns på: 41211 på tid 1537 nanosekunder
+
+Det sökta talet: 325
+Finns på: 32520 på tid 1816 nanosekunder
+
+Det sökta talet: 903
+Finns på: 90137 på tid 978 nanosekunder
+
+Det sökta talet: 324
+Finns på: 32422 på tid 1117 nanosekunder
+
+Det sökta talet: 245
+Finns på: 24463 på tid 1676 nanosekunder
+
+Det sökta talet: 39
+Finns på: 3809 på tid 1746 nanosekunder
+
+Det sökta talet: 608
+Finns på: 60742 på tid 1187 nanosekunder
+
+Det sökta talet: 201
+Finns på: 20117 på tid 1606 nanosekunder
+
+Det sökta talet: 575
+Finns på: 57325 på tid 1956 nanosekunder
+
+Det sökta talet: 798
+Finns på: 79883 på tid 1257 nanosekunder
+
+Det sökta talet: 844
+Finns på: 84374 på tid 1746 nanosekunder
+
+Det sökta talet: 904
+Finns på: 90381 på tid 1816 nanosekunder
+
+Det sökta talet: 86
+Finns på: 8496 på tid 1956 nanosekunder
+
+Det sökta talet: 588
+Finns på: 58593 på tid 978 nanosekunder
+
+Det sökta talet: 791
+Finns på: 79200 på tid 2025 nanosekunder
+
+Det sökta talet: 824
+Finns på: 82325 på tid 2025 nanosekunder
+
+Det sökta talet: 32
+Finns på: 3124 på tid 1886 nanosekunder
+
+Det sökta talet: 141
+Finns på: 14160 på tid 1257 nanosekunder
+
+Det sökta talet: 757
+Finns på: 75781 på tid 1257 nanosekunder
+
+Det sökta talet: 323
+Finns på: 32227 på tid 1327 nanosekunder
+
+Det sökta talet: 899
+Finns på: 89843 på tid 1746 nanosekunder
+
+Det sökta talet: 572
+Finns på: 57129 på tid 1187 nanosekunder
+
+Det sökta talet: 231
+Finns på: 23145 på tid 1606 nanosekunder
+
+Det sökta talet: 116
+Finns på: 11523 på tid 1746 nanosekunder
+
+Det sökta talet: 874
+Finns på: 87402 på tid 1676 nanosekunder
+
+Det sökta talet: 466
+Finns på: 46874 på tid 1466 nanosekunder
+
+Det sökta talet: 285
+Finns på: 28515 på tid 1188 nanosekunder
+
+Det sökta talet: 112
+Finns på: 11035 på tid 1187 nanosekunder
+
+Det sökta talet: 611
+Finns på: 61231 på tid 1746 nanosekunder
+
