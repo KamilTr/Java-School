@@ -39,12 +39,12 @@ public class ItemList {
 		Node cur = header;
 		int counter = 0;
 		while(cur.next!=null){
-			cur = cur.next;
-			counter++;
 			if(counter == index){
 				temp.next = cur.next;
 				cur.next = temp;
 			}
+			cur = cur.next;
+			counter++;
 		}
 		size++;
 	}
@@ -65,7 +65,17 @@ public class ItemList {
 	 * Ta bort noden som innehåller Item- objektet med viss id
 	 */
 	public Item remove(String id) {
-
+		Node temp = header;
+		Item result = null;
+		while(temp.next !=null){
+			if(temp.next.itm.getItemName() == id){
+				result = temp.next.itm;
+				temp.next = temp.next.next;
+				size--;
+				return result;
+			}
+			temp = temp.next;
+		}
 		return null;
 	}
 
@@ -88,20 +98,27 @@ public class ItemList {
 	 * Skriver ut innehållet i listan
 	 */
 	public void printList() {
+		Node temp = header;
+		while(temp.next != null){
+			System.out.println(temp.next.itm.getItemName() + " RFID:" + temp.next.itm.getItemNumber());
+			temp = temp.next;
+		}
 	}
 
 	/**
 	 * Returnera true om listan är tom annars false
 	 */
 	public boolean isEmpty() {
-		return true;
+		if(size == 0)
+			return true;
+		return false;
 	}
 
 	/**
 	 * Returnera antlet element i listan
 	 */
 	public int size() {
-		return 0;
+		return size;
 	}
 
 }

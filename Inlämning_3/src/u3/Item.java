@@ -65,7 +65,8 @@ public class Item implements Comparable<Item> {
 
 		// Skapa item- object
 		Item itm1 = new Item("bermometer", "1111111111");
-		Item itm2 = new Item("bermometer", "111111111");
+		Item itm2 = new Item("bermometer", "211111111");
+		Item itm3 = new Item("termometer", "211111132");
 
 		// Gör item-obj utlånad
 		itm1.setDeliverDate(newDate);
@@ -73,7 +74,13 @@ public class Item implements Comparable<Item> {
 		System.out.println(itm1);
 		System.out.println(itm1.compareTo(itm2));
 		System.out.println(itm1.equals(itm2));
-
+		ItemList list = new ItemList();
+		list.add(itm1);
+		list.add(itm2);
+		list.add(itm3);
+		list.remove("termometer");
+		list.printList();
+		list.size();
 	}
 
 }
